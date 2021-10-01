@@ -13,9 +13,6 @@ Music Player app made with Just audio library and Local database Hive. Find the 
 
 </p>
 <br/>
-<p align="center">
-    <img src="screenshots\Thumbnail.jpg" alt="drawing" />
-</p>
 
 <p align="center">
   <img alt="shields.io" src="screenshots\20211001_160652.gif" width="140"/>
