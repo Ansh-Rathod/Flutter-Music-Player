@@ -188,11 +188,9 @@ class FavoriteBottomSheet extends StatelessWidget {
                               if (!controller.isFavoritePlaylist) {
                                 controller.changetoFavorite(i);
                                 controller.player.play();
-                                Navigator.pop(context);
                               }
                               controller.player.seek(Duration.zero, index: i);
                               controller.player.play();
-                              Navigator.pop(context);
                             },
                             child: Container(
                               padding: const EdgeInsets.symmetric(
