@@ -8,16 +8,17 @@ import 'package:musicbanner/widgets/blur_container.dart';
 class NewSongPageview extends StatelessWidget {
   final List<SongModel> allSongs;
   final NowPlayingController controller;
-  const NewSongPageview({
+  NewSongPageview({
     Key? key,
     required this.allSongs,
     required this.controller,
   }) : super(key: key);
+  List<SongModel> newSongs = [];
 
   @override
   Widget build(BuildContext context) {
-    List<SongModel> newSongs = allSongs;
-    newSongs..shuffle();
+    newSongs.addAll(allSongs);
+    newSongs.shuffle();
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 26.0),
       child: SizedBox(
