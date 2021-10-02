@@ -56,7 +56,7 @@ git clone https://github.com/Ansh-Rathod/Flutter-Music-Player
 ### Go into the repository
 
 ```
-cd Flutter-Tiktok-Videos
+cd Flutter-Music-player
 ```
 
 ### Install dependencies
