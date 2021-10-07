@@ -2,29 +2,29 @@
     <br>
     Flutter Music Player
 </h1>
-<h4 align="center">
+<p align="center">
 Music Player app made with Just audio library and Local database Hive. Find the free and Royelty music with Happy Rock application. The app contains information about singers and you can make your own playlist with Songs.Happy rock App's features are same as the real music app like spotify, amazon music etc.
 
-</h4>
+</p>
 <hr>
 <p align="center">
-  <img alt="shields.io" src="https://img.shields.io/github/issues/Ansh-Rathod/Flutter-music-player" />
-  <img alt="shields.io" src="https://img.shields.io/github/stars/Ansh-Rathod/Flutter-music-player?style=social" />
+  <img src="https://img.shields.io/github/issues/Ansh-Rathod/Flutter-music-player" />
+  <img src="https://img.shields.io/github/stars/Ansh-Rathod/Flutter-music-player?style=social" />
 
 </p>
 <br/>
 
 <p align="center">
-  <img alt="shields.io" src="screenshots\20211001_160652.gif" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-114457.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161235.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161248.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161305.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161327.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161342.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161359.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161428.jpg" width="140"/>
-  <img alt="shields.io" src="screenshots\Screenshot_20211001-161501.jpg" width="140"/>
+  <img src="screenshots\20211001_160652.gif" width="140"/>
+  <img src="screenshots\Screenshot_20211001-114457.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161235.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161248.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161305.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161327.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161342.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161359.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161428.jpg" width="140"/>
+  <img src="screenshots\Screenshot_20211001-161501.jpg" width="140"/>
 
 </p>
 
