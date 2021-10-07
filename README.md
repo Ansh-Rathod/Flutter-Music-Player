@@ -6,6 +6,7 @@
 Music Player app made with Just audio library and Local database Hive. Find the free and Royelty music with Happy Rock application. The app contains information about singers and you can make your own playlist with Songs.Happy rock App's features are same as the real music app like spotify, amazon music etc.
 
 </p>
+
 <hr>
 <p align="center">
   <img src="https://img.shields.io/github/issues/Ansh-Rathod/Flutter-music-player" />
