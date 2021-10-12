@@ -339,6 +339,7 @@ class _HomePageState extends State<HomePage> {
                     ],
                   ),
                 ),
+                
                 AnimatedPositioned(
                   top: 0,
                   duration: const Duration(microseconds: 500),
