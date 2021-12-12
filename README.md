@@ -16,16 +16,16 @@ Music Player app made with Just audio library and Local database Hive. Find the 
 <br/>
 
 <p align="center">
-  <img src="screenshots/20211001_160652.gif" width="140"/>
-  <img src="screenshots/Screenshot_20211001-114457.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161235.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161248.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161305.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161327.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161342.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161359.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161428.jpg" width="140"/>
-  <img src="screenshots/Screenshot_20211001-161501.jpg" width="140"/>
+  <img src="screenshots/20211001_160652.gif" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-114457.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161235.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161248.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161305.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161327.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161342.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161359.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161428.jpg" width="30%"/>
+  <img src="screenshots/Screenshot_20211001-161501.jpg" width="30%"/>
 
 </p>
 
